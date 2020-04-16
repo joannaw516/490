@@ -10,11 +10,17 @@ table = soup.find(id= 'findschool_tablebody')
 
 items = table.find_all(class_='tr_odd filter-in')
 
+items2= table.find_all(class_= 'tr_even filter-in')
+
 #print(items[0].find(class_='schoolname').get_text())
 
 link_list = [item.find_all('a') for item in items]
 
 email_list = [item[-1].get("href") for item in link_list]
+
+link_list2 = [item.find_all('a') for item in items2]
+
+email_list2 = [item[-1].get("href") for item in link_list2]
 
 print(email_list)
 
@@ -30,15 +36,20 @@ school_list= [item.find(class_= 'schoolname').get_text() for item in items]
 principal_list = [item.find(class_= 'principal_name').get_text() for item in items] 
 #print(principal_list)
 
+school_list2= [item.find(class_= 'schoolname').get_text() for item in items2] 
+#print(school_list)
+
+principal_list2 = [item.find(class_= 'principal_name').get_text() for item in items2] 
+#print(principal_list)
 #email_list= [item[-1].get("href") for item in link_list]
 #print(email_list)
 
 
 
 full_list = pd.DataFrame(
-	{'school': school_list,
-	'principal_name': principal_list,
-	'email': email_list,
+	{'school': school_list + school_list2,
+	'principal_name': principal_list +principal_list2,
+	'email': email_list + email_list2,
 	}
 	)	
 #print(full_list)
