@@ -1,60 +1,60 @@
-,school,principal_name
-0,Aiton Elementary School,Malaika Golden
-1,Anacostia High School,William Haith
-2,Ballou STAY High School,Cara Fuller
-3,Bard High School Early College DC (Bard DC),Vanessa Anderson
-4,Beers Elementary School,Gwendolyn Payton
-5,Brent Elementary School,Norah Lycknell
-6,Brookland Middle School,Kerry Richardson
-7,Bruce-Monroe Elementary School @ Park View,Alethea Bustillo
-8,Burroughs Elementary School,LeVar Jenkins
-9,C.W. Harris Elementary School,Heather Hairston
-10,Cardozo Education Campus,Arthur Mola
-11,Columbia Heights Education Campus,Maria Tukeva
-12,Deal Middle School,Diedre Neal
-13,Drew Elementary School,Naimah Salahuddin
-14,Dunbar High School,Nadine Smith
-15,Eaton Elementary School,Dale Mann
-16,Excel Academy,Tenia Pritchard
-17,Garrison Elementary School,Brigham Kiplinger
-18,H.D. Woodson High School,William Massey
-19,Hart Middle School,Charlette Butler
-20,Hendley Elementary School,Sundai Riggins
-21,Hyde-Addison Elementary School,Calvin Hooks
-22,Inspiring Youth Program,Tanya Roane
-23,Janney Elementary School,Alysia Lutz
-24,Johnson Middle School,Courtney Taylor
-25,Ketcham Elementary School,Maisha Riddlesprigger
-26,Kimball Elementary School,Johann Lee
-27,Kramer Middle School,Katreena Shelby
-28,Langdon Elementary School,Kemi Baltimore-Husbands
-29,LaSalle-Backus Education Campus,Shelly Gray
-30,Leckie Education Campus,Niyeka Wilson
-31,Luke C. Moore High School,Rodney Wormsley
-32,Malcolm X Elementary School @ Green,Zara Berry-Young
-33,Marie Reed Elementary School,Katie Lundgren
-34,McKinley Middle School,Louise Jones
-35,Miner Elementary School,Bruce Jackson
-36,Murch Elementary School,Chris Cebrzynski
-37,Noyes Elementary School,Kermit Burks
-38,Patterson Elementary School,Victorie Thomas
-39,Peabody Elementary School (Capitol Hill Cluster),Elena Bell
-40,Plummer Elementary School,Terri Fuller
-41,Randle Highlands Elementary School,Kristie Edwards
-42,River Terrace Education Campus,Dr. Aimeé Cepeda Pressley
-43,Roosevelt High School,Justin Ralston
-44,Ross Elementary School,Holly Searl
-45,School Without Walls @ Francis-Stevens,Richard Trogisch
-46,School-Within-School @ Goding,John Burst
-47,Shepherd Elementary School,Phyllis Hedlund
-48,Smothers Elementary School,Kiana Williams
-49,Stanton Elementary School,Harold McCray Jr.
-50,Stuart-Hobson Middle School (Capitol Hill Cluster),Kristofer Comeforo
-51,Thaddeus Stevens Early Learning Center,Amelia Hunt
-52,Thomson Elementary School,Carmen Shepherd
-53,Tubman Elementary School,Amanda Delabar
-54,Tyler Elementary School,Jasmine Brann
-55,Walker-Jones Education Campus,Clinton Turner
-56,Watkins Elementary School (Capitol Hill Cluster),Elena Bell
-57,Wheatley Education Campus,Shenora Plenty
-58,Woodrow Wilson High School,Kim Martin
+,school,principal_name,email
+0,Aiton Elementary School,Malaika Golden,mailto:malaika.golden@k12.dc.gov
+1,Anacostia High School,William Haith,mailto:william.haith@k12.dc.gov
+2,Ballou STAY High School,Cara Fuller,mailto:cara.fuller@k12.dc.gov
+3,Bard High School Early College DC (Bard DC),Vanessa Anderson,mailto:Vanessa.Anderson2@k12.dc.gov
+4,Beers Elementary School,Gwendolyn Payton,mailto:gwendolyn.payton@k12.dc.gov
+5,Brent Elementary School,Norah Lycknell,mailto:norah.lycknell@k12.dc.gov
+6,Brookland Middle School,Kerry Richardson,mailto:kerry.richardson@k12.dc.gov
+7,Bruce-Monroe Elementary School @ Park View,Alethea Bustillo,mailto:alethea.bustillo@k12.dc.gov
+8,Burroughs Elementary School,LeVar Jenkins,mailto:levar.jenkins@k12.dc.gov
+9,C.W. Harris Elementary School,Heather Hairston,mailto:heather.hairston2@k12.dc.gov
+10,Cardozo Education Campus,Arthur Mola,mailto:arthur.mola@k12.dc.gov
+11,Columbia Heights Education Campus,Maria Tukeva,mailto:maria.tukeva@k12.dc.gov
+12,Deal Middle School,Diedre Neal,mailto:diedre.neal@k12.dc.gov
+13,Drew Elementary School,Naimah Salahuddin,mailto:naimah.salahuddin@k12.dc.gov
+14,Dunbar High School,Nadine Smith,mailto:Nadine.Smith@k12.dc.gov
+15,Eaton Elementary School,Dale Mann,mailto:dale.mann@k12.dc.gov
+16,Excel Academy,Tenia Pritchard,mailto:tenia.pritchard@k12.dc.gov
+17,Garrison Elementary School,Brigham Kiplinger,mailto:brigham.kiplinger@k12.dc.gov
+18,H.D. Woodson High School,William Massey,mailto:William.massey@k12.dc.gov
+19,Hart Middle School,Charlette Butler,mailto:charlette.butler@k12.dc.gov
+20,Hendley Elementary School,Sundai Riggins,mailto:sundai.riggins@k12.dc.gov
+21,Hyde-Addison Elementary School,Calvin Hooks,mailto:Calvin.Hooks@k12.dc.gov
+22,Inspiring Youth Program,Tanya Roane,mailto:tanya.roane@k12.dc.gov
+23,Janney Elementary School,Alysia Lutz,mailto:alysia.lutz@k12.dc.gov
+24,Johnson Middle School,Courtney Taylor,mailto:courtney.taylor@k12.dc.gov
+25,Ketcham Elementary School,Maisha Riddlesprigger,mailto:maisha.riddlesprigger@k12.dc.gov
+26,Kimball Elementary School,Johann Lee,mailto:johann.lee@k12.dc.gov
+27,Kramer Middle School,Katreena Shelby,mailto:katreena.shelby@k12.dc.gov
+28,Langdon Elementary School,Kemi Baltimore-Husbands,mailto:kemi.husbands@k12.dc.gov
+29,LaSalle-Backus Education Campus,Shelly Gray,mailto:shelly.gray@k12.dc.gov
+30,Leckie Education Campus,Niyeka Wilson,mailto:niyeka.wilson@k12.dc.gov
+31,Luke C. Moore High School,Rodney Wormsley,mailto:Rodney.wormsley@k12.dc.gov
+32,Malcolm X Elementary School @ Green,Zara Berry-Young,mailto:zara.berry-young@k12.dc.gov
+33,Marie Reed Elementary School,Katie Lundgren,mailto:katie.lundgren@k12.dc.gov
+34,McKinley Middle School,Louise Jones,mailto:louise.jones@k12.dc.gov
+35,Miner Elementary School,Bruce Jackson,mailto:bruce.jackson@k12.dc.gov
+36,Murch Elementary School,Chris Cebrzynski,mailto:chris.cebrzynski@k12.dc.gov
+37,Noyes Elementary School,Kermit Burks,mailto:kermit.burks@k12.dc.gov
+38,Patterson Elementary School,Victorie Thomas,mailto:victorie.thomas@k12.dc.gov
+39,Peabody Elementary School (Capitol Hill Cluster),Elena Bell,mailto:elena.bell@k12.dc.gov
+40,Plummer Elementary School,Terri Fuller,mailto:terri.fuller@k12.dc.gov
+41,Randle Highlands Elementary School,Kristie Edwards,mailto:kristie.edwards@k12.dc.gov
+42,River Terrace Education Campus,Dr. Aimeé Cepeda Pressley,mailto:aimee.cepeda@k12.dc.gov
+43,Roosevelt High School,Justin Ralston,mailto:justin.ralston@k12.dc.gov
+44,Ross Elementary School,Holly Searl,mailto:holly.searl@k12.dc.gov
+45,School Without Walls @ Francis-Stevens,Richard Trogisch,mailto:richard.trogisch@k12.dc.gov
+46,School-Within-School @ Goding,John Burst,mailto:john.burst@k12.dc.gov
+47,Shepherd Elementary School,Phyllis Hedlund,mailto:Phyllis.Hedlund@k12.dc.gov
+48,Smothers Elementary School,Kiana Williams,mailto:kiana.williams2@k12.dc.gov
+49,Stanton Elementary School,Harold McCray Jr.,mailto:harold.mccray@k12.dc.gov
+50,Stuart-Hobson Middle School (Capitol Hill Cluster),Kristofer Comeforo,mailto:kristofer.comeforo@k12.dc.gov
+51,Thaddeus Stevens Early Learning Center,Amelia Hunt,mailto:amelia.hunt@k12.dc.gov
+52,Thomson Elementary School,Carmen Shepherd,mailto:carmen.shepherd@k12.dc.gov
+53,Tubman Elementary School,Amanda Delabar,mailto:amanda.delabar@k12.dc.gov
+54,Tyler Elementary School,Jasmine Brann,mailto:jasmine.brann@k12.dc.gov
+55,Walker-Jones Education Campus,Clinton Turner,mailto:clinton.turner3@k12.dc.gov
+56,Watkins Elementary School (Capitol Hill Cluster),Elena Bell,mailto:elena.bell@k12.dc.gov
+57,Wheatley Education Campus,Shenora Plenty,mailto:shenora.plenty@k12.dc.gov
+58,Woodrow Wilson High School,Kim Martin,mailto:kimberly.martin@k12.dc.gov
