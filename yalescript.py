@@ -18,22 +18,29 @@ emails = table.find_all('a')
 text = table.find_all('p')
 codirectorsanddirectors = []
 
-print(text[2].get_text())
+emaillist = []
+
+# for x in range(20,220):
+# 	entry = emails[x].get('href')
+# 	if entry == None:
+# 		continue
+# 	if 
+# 	print(entry)
 
 for x in range(2, 202):
  	entry = text[x].get_text()
- 	print(entry, x)
+ 	#print(entry, x)
  	if entry == '':
  		continue
  	if entry[0] == ('D') or entry[0] == ('C'):
- 		print(entry)
+ 		emailaddress= emails[x+18].get('href')
+ 		emaillist.append(emailaddress[7:])
+ 		#print(entry)
  		codirectorsanddirectors.append(entry)
 
 
 	
 #print("codirectorsanddirectors:", codirectorsanddirectors)
-
-
 #print(text[50].get_text())
 
 names= [item.get_text() for item in names] 
@@ -44,7 +51,8 @@ names= [item.get_text() for item in names]
 #print(DUSnames)
 
 full_list = pd.DataFrame(
-	{'DUS': codirectorsanddirectors
+	{'DUS': codirectorsanddirectors,
+	'emails': emaillist
 	
 	})
 
