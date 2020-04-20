@@ -14,18 +14,25 @@ projects = table.find_all('p')
 
 newnames = []
 
-for item in range(0, len(names), 2):
-	newnames.append(names[item].get_text())
+
+for item in range(0, len(names)):
+	if(names[item].get_text() != '\xa0'):
+		newnames.append(names[item].get_text())
+	print(names[item], item)
 	
 
 #names = [item.get_text() for item in names]
-
-projects = [item.get_text() for item in projects]
-print(newnames)
+finalprojects = []
+for item in range(0, len(projects)):
+	if(projects[item].get_text() != '\xa0'):
+		finalprojects.append(projects[item].get_text())
+	
+#projects = [item.get_text() for item in projects]
+print(len(finalprojects))
 
 awards = pd.DataFrame({
 	'names:' : newnames,
-	'projects:' : projects[1:],
+	'projects:' : finalprojects[1:],
 	})
 
 awards.to_csv('awardscholars.csv')
